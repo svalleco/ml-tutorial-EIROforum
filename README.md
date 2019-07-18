@@ -1,13 +1,11 @@
 # Machine Learning Tutorial at the 6th EIROforum school on Instrumentation
 
 
-This repository contains the Jupyter notebooks for the hands-on tutorial for the Artificial Intelligence session at the 6th EIROforum school on Instrumentation.
+This repository contains the Jupyter notebooks for two hands-on tutorials developed for the Artificial Intelligence session at the 6th EIROforum school on Instrumentation.
 
 See the [detailed program](https://indico.cern.ch/event/777129/timetable/#20190516.detailed) for the [AI Hightlight topic](https://indico.cern.ch/event/777129/page/16087-ai-highlight-topic) session. 
 
-There are three notebooks in the repository:
-
-* [EIRO-ESI-2019](https://github.com/svalleco/ml-tutorial-EIROforum/blob/master/EIRO-ESI-2019.ipynb) **Prediction of the Mars Express Thermal Power Consumption**. Notebook from Jose Martinez Heras and included from https://github.com/jmartinezheras/ml-introduction-EIROforum for predicting the power consumption of Mars Express. 
+There are two notebooks in this repository:
 
 * [Higgs_classification_exaple](https://github.com/svalleco/ml-tutorial-EIROforum/blob/master/Higgs_classification_example.ipynb) **Higgs Event classification with Deep Learning**. Example for using deep learning tools for classification of Higgs events at LHC.
 
