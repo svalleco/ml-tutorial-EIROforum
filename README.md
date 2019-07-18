@@ -7,11 +7,11 @@ See the [detailed program](https://indico.cern.ch/event/777129/timetable/#201905
 
 There are three notebooks in the repository:
 
-* [EIRO-ESI-2019](https://github.com/lmoneta/ml-tutorial-EIROforum/blob/master/EIRO-ESI-2019.ipynb) **Prediction of the Mars Express Thermal Power Consumption**. Notebook from Jose Martinez Heras and included from https://github.com/jmartinezheras/ml-introduction-EIROforum for predicting the power consumption of Mars Express. 
+* [EIRO-ESI-2019](https://github.com/svalleco/ml-tutorial-EIROforum/blob/master/EIRO-ESI-2019.ipynb) **Prediction of the Mars Express Thermal Power Consumption**. Notebook from Jose Martinez Heras and included from https://github.com/jmartinezheras/ml-introduction-EIROforum for predicting the power consumption of Mars Express. 
 
-* [Higgs_classification_exaple](https://github.com/lmoneta/ml-tutorial-EIROforum/blob/master/Higgs_classification_example.ipynb) **Higgs Event classification with Deep Learning**. Example for using deep learning tools for classification of Higgs events at LHC.
+* [Higgs_classification_exaple](https://github.com/svalleco/ml-tutorial-EIROforum/blob/master/Higgs_classification_example.ipynb) **Higgs Event classification with Deep Learning**. Example for using deep learning tools for classification of Higgs events at LHC.
 
-* [Ecal2DGan](https://github.com/lmoneta/ml-tutorial-EIROforum/blob/master/Ecal2DGan.ipynb) **Example of a Generative Adversarial Network** for fast simulation of electromagnetic shower images reconstructed by a calorimeter detector. 
+* [Ecal2DGan](https://github.com/svalleco/ml-tutorial-EIROforum/blob/master/Ecal2DGan.ipynb) **Example of a Generative Adversarial Network** for fast simulation of electromagnetic shower images reconstructed by a calorimeter detector. 
 
 
 
@@ -46,7 +46,7 @@ For the other configuration parameters you can use the default values.
 *  Enter the URL for the notebook GitHub repository (the link is also available in the Indigo agenda page)
 
 ```
-https://github.com/lmoneta/ml-tutorial-EIROforum
+https://github.com/svalleco/ml-tutorial-EIROforum.git
 ```
 
 *  Open the SWAN Project ``ml-tutorial-EIROforum``.
@@ -61,7 +61,7 @@ Here we provide instructions on how to download the notebook directly from GitHu
 *  Open a Terminal 
 *  Clone the GitHub  repository 
 ```
-git clone  https://github.com/lmoneta/ml-tutorial-EIROforum
+git clone  https://github.com/svalleco/ml-tutorial-EIROforum.git
 ```
 * The notebooks will be in the directory *ml-tutorial-Europium*. Go to this directory
 * Run the Jupyter notebook service by doing from the terminal
