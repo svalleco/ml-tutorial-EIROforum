@@ -1,4 +1,4 @@
-# Machine Learning Tutorial at the 6th EIROforum school on Instrumentation
+# HEP ecxamples from the Machine Learning Tutorial at the 6th EIROforum school on Instrumentation
 
 
 This repository contains the Jupyter notebooks for two hands-on tutorials developed for the Artificial Intelligence session at the 6th EIROforum school on Instrumentation.
